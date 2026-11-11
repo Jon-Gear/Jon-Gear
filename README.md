@@ -40,7 +40,7 @@ I design gameplay mechanics, build robust systems, and create tools that make li
 
 | Role | Where | When | What I built |
 |---|---|---|---|
-| Engine & Tools Programmer (Intern) | **Flashgroup XR** | Apr 2026 – Present | Collider Editor (Unity, C#) |
+| Engine & Tools Programmer (Intern) | **Flashgroup XR** | Apr 2026 – Nov 2026 | Collider Editor (Unity, C#) |
 | Tools Programmer (Intern) | **SportsImproVR** | Nov 2025 – Apr 2026 | VR-Chat-based full-body tracking in Unity; Video-to-FBX converter tool |
 
 ## Featured projects
